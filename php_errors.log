@@ -1,0 +1,30 @@
+[14-Jul-2025 20:13:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1 in C:\xampp\htdocs\Al_nadi_ul_falah\settings\data_settings.php:345
+Stack trace:
+#0 C:\xampp\htdocs\Al_nadi_ul_falah\settings\data_settings.php(345): mysqli->query('SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\Al_nadi_ul_falah\index.php(107): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Al_nadi_ul_falah\settings\data_settings.php on line 345
+[14-Jul-2025 20:13:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1 in C:\xampp\htdocs\Al_nadi_ul_falah\settings\data_settings.php:345
+Stack trace:
+#0 C:\xampp\htdocs\Al_nadi_ul_falah\settings\data_settings.php(345): mysqli->query('SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\Al_nadi_ul_falah\index.php(107): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Al_nadi_ul_falah\settings\data_settings.php on line 345
+[14-Jul-2025 20:14:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1 in C:\xampp\htdocs\Al_nadi_ul_falah\settings\data_settings.php:345
+Stack trace:
+#0 C:\xampp\htdocs\Al_nadi_ul_falah\settings\data_settings.php(345): mysqli->query('SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\Al_nadi_ul_falah\index.php(107): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Al_nadi_ul_falah\settings\data_settings.php on line 345
+[14-Jul-2025 20:14:18 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1 in C:\xampp\htdocs\Al_nadi_ul_falah\settings\data_settings.php:345
+Stack trace:
+#0 C:\xampp\htdocs\Al_nadi_ul_falah\settings\data_settings.php(345): mysqli->query('SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\Al_nadi_ul_falah\index.php(107): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Al_nadi_ul_falah\settings\data_settings.php on line 345
+[14-Jul-2025 20:14:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1 in C:\xampp\htdocs\Al_nadi_ul_falah\settings\data_settings.php:345
+Stack trace:
+#0 C:\xampp\htdocs\Al_nadi_ul_falah\settings\data_settings.php(345): mysqli->query('SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\Al_nadi_ul_falah\index.php(107): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Al_nadi_ul_falah\settings\data_settings.php on line 345
